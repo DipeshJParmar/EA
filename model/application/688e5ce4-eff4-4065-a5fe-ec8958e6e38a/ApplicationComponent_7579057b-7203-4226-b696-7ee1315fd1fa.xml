@@ -1,6 +1,11 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Component"
+    name="Vectus"
     id="7579057b-7203-4226-b696-7ee1315fd1fa">
-  <properties/>
+  <properties
+      key="Application Name"
+      value="Vectus"/>
+  <properties
+      key="Version"
+      value="7.0.7"/>
 </archimate:ApplicationComponent>
